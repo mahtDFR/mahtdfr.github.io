@@ -1,0 +1,194 @@
+https://www.linkedin.com/learning/search?keywords=website&u=89144586
+
+https://github.com/ChrisTerBeke/personal-website
+https://christerbeke.com
+
+i want to make a personal website
+
+why?
+
+resume - advertise myself to employers so they can find me
+show instagram feed
+document creative projects
+document portfolio
+social media buttons
+
+delete all old tweets
+
+issues
+
+hosting
+url
+platform
+analytics?
+shopify?
+
+
+platform
+
+wordpress?
+
+https://www.youtube.com/watch?v=k89DkBB-49s
+
+hostgator.com
+
+mick recommends
+https://www.uk2.net/
+
+
+hosting
+wordpress setup
+
+wordpress plugins
+astra theme
+elementor
+essential add-ons for elementor
+smash balloon social media
+
+
+http://fieldofview.com/
+
+
+the future belongs to the curious
+
+http://davidneevel.com/
+https://themesinfo.com/dw-coding-wordpress-theme-39e3/dickbird.co.uk-i9f99
+
+http://testroete.com/
+
+
+https://pages.github.com/
+
+
+chris says:
+
+i'm using github pages
+it's free
+basically you can put an index.html in a repo, tell github that it's a website and voila: username.github.io is now your site
+then you add a custom domain to it using cname records
+just get a domain from any decent registrar that also supports DNS configuration (to enter the cname record for forwarding to github)
+I got mine from antagonist (dutch registrar/hosting company that started near where I studied)
+we also use github pages to publish our design system components: https://ultimaker.github.io/stardust-web/
+github offers some decent automation pipelines (github actions) to run a build job to turn your dynamic code into a static website, which you can then publish like this
+
+
+19/05/2020
+
+
+https://mahtdfr.github.io
+
+got an index made!
+
+now to make a domain name
+
+"mattjani.com" registered with antagonist
+
+can't work out how to do dns config to point to github
+
+it worrrrkss!!!
+
+https://mijn.antagonist.nl/products/domain/602631/dns/
+
+
+what did i do today?
+
+set up html index
+set up custom url
+
+to do
+
+set up jekyll
+add some content
+
+
+20/05/2020
+
+http://www.timvanderheide.com/
+
+make a favicon
+
+http://www.timvanderheide.com/user/themes/timtheme/images/favicon1.png
+
+access github
+b54229a629e0d09d11d7a4558d310ec3c1b85820
+
+ive set up jekyll. it would be good to set up separate branches for a staging and production env
+
+currently i have master and gh-pages
+
+master can be dev stuff
+staging can be staging changes
+production can be the live website
+
+
+https://www.hackster.io/maht/projects
+
+
+
+https://ultimaker.com/learn/ultimaker-cloud-achieve-more-together-using-teams
+https://all3dp.com/4/ultimaker-cura-4-1-beta-released-ux-improvements-slicing-enhancements/
+https://3dprintingzoom.com/ultimaker-introduces-early-beta-of-new-consumer-interface-for-cura-four-zero-3d-printing-software-program/amp/
+https://ultimaker.com/learn/in-the-spotlight-dinara-kasko-pastry-artist
+http://www.stamparein3d.it/ultimaker-cura-4-0-nuova-interfaccia-utente-versione-beta/
+
+
+https://ultimaker.com/learn/behind-the-scenes-how-ultimaker-3d-printers-are-manufactured
+
+
+site: ultimaker.com "Matt Jani"
+
+
+organize portfolio links in a ranked list of preference
+
+
+splode images from david neevel
+
+<div id="splodeBox" style="display: none;">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/01.png" id="splode01" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/02.png" id="splode02" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/03.png" id="splode03" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/04.png" id="splode04" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/05.png" id="splode05" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/06.png" id="splode06" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/07.png" id="splode07" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/08.png" id="splode08" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/09.png" id="splode09" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/10.png" id="splode10" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/11.png" id="splode11" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/12.png" id="splode12" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/13.png" id="splode13" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/14.png" id="splode14" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/15.png" id="splode15" style="display: none;" class="splodeImage">
+
+<img src="http://www.dickbird.org/wp/wp-content/themes/dickbird/images/splodes/16.png" id="splode16" style="display: none;" class="splodeImage">
+
+</div>
+
+
+
+21/05/2020
+
+idea: publication archive
+host static images or pages to show work done.
+
+got dreamweaver
+
+https://github.com/rosario/kasper
+nice theme
+
+https://www.linkedin.com/learning/learning-static-site-building-with-jekyll/install-a-theme?u=89144586
