@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+buildlog.txt
+ultimakerlinks.txt
+public
